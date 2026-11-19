@@ -35,6 +35,3 @@ JavaScript · HTML · Node.js · Express · SQL · TypeScript (en aprendizaje)
 
 Mi siguiente paso es incorporar una **API con Node.js y Express** y guardar los datos en una **base de datos SQL**.
 
-## Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=daviDeveloperJS&amp;show_icons=true&amp;theme=github_dark&amp;locale=es&amp;border_radius=8&amp;custom_title=Actividad%20de%20David" alt="Estadísticas públicas de David Moscoso en GitHub">
