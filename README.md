@@ -19,7 +19,7 @@ Tecnologías
   <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" height="48" alt="TypeScript, en aprendizaje">
 </p>JavaScript · HTML · Node.js · Express · SQL (SQL Server) · TypeScript (en aprendizaje)
 Proyecto destacado
-<img src="./rescatestock.png" width="440" alt="RescateStock, inventario y vencimientos">RescateStock es una aplicación web en desarrollo para ayudar a pequeños comercios a reducir la pérdida de productos por vencimiento. Permite registrar productos, identificar cuáles están cerca de vencer y proponer promociones para darles salida.
+<img src="./rescatestock.png" width="440" alt="Ver el proyecto RescateStock">RescateStock es una aplicación web en desarrollo para ayudar a pequeños comercios a reducir la pérdida de productos por vencimiento. Permite registrar productos, identificar cuáles están cerca de vencer y proponer promociones para darles salida.
 
 Mi siguiente paso es incorporar una API con Node.js y Express y guardar los datos en una base de datos SQL.
 Estadísticas de GitHub
