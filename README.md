@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy David Moscoso 👋</h1><!-- Reemplaza TU-USUARIO y TU_CORREO@gmail.com por tus datos de contacto. -->
 <p>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="[https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/david-moscoso-20b988291/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgOGg0djE0SDJ6bTItNmEyIDIgMCAxIDAgMCA0IDIgMiAwIDAgMCAwLTR6TTkgOGg0djJjMS0xLjUgMi4zLTIuMyA0LjMtMi4zIDMuMiAwIDQuNyAyIDQuNyA1LjJWMjJoLTR2LTguMmMwLTEuNy0uNy0yLjYtMi4yLTIuNi0xLjYgMC0yLjggMS4xLTIuOCAzVjIySDl6Ii8%2BPC9zdmc%2B" alt="LinkedIn">
   </a>
   <a href="mailto:TU_CORREO@gmail.com">
